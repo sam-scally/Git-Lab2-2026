@@ -1,4 +1,8 @@
+ HEAD
 # Wi‑Fi NETWORK USER Guide
+
+# FEATURE VERSION GUIDE.
+ 208c409 (changed wifi title on feature branch)
 
 ## Current Revision
 
