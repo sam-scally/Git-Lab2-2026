@@ -26,3 +26,10 @@ No issues currently documented.
 
 If the issue persists after all troubleshooting steps have been completed, contact the Service Desk.
 
+HEAD
+
+### **SLOW WIRELESS CONNECTION**
+
+**if your wifi is slow try switching it off for few minute then turn back on then disconnect unused device from the wifi.**
+
+ 0ffe147 (added a heading WIFI TROUBLESHOOTING and text on what to do if wifi is slow)
