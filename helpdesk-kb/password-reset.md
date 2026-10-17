@@ -16,3 +16,8 @@ Priority: Standard
 ## Escalation
 
 Users should contact IT support if they experience account issues.
+
+### Locked Account
+
+if you run out of attempts and get locked out you'll have to wait for 2 minute to try again
+
